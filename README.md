@@ -17,6 +17,7 @@
 
   ## Usage
   Walkthrough Video:
+  https://drive.google.com/file/d/1CS_Kej8F4Dtd3tPrtudCE4Y7Axe_D0Dt/view
  
   ## License
   This application is covered by the mit license. 
