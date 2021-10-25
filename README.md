@@ -18,7 +18,10 @@
   ## Usage
   Walkthrough Video:
   https://drive.google.com/file/d/1CS_Kej8F4Dtd3tPrtudCE4Y7Axe_D0Dt/view
- 
+  
+  Here is an example of what a GET request may look like for a single product that references both a category and a tag.
+ ![Capture](https://user-images.githubusercontent.com/84405590/138619807-afbddf49-8243-42fb-8ca9-b973127f78b0.PNG)
+
   ## License
   This application is covered by the mit license. 
   <br />
